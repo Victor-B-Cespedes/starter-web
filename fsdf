@@ -1,0 +1,47 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 06bb023..7eb0080 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -2,6 +2,15 @@[m
+ [m
+ This repository is for showing how Git and GitHub work[m
+ [m
+[32m+[m[32m## Introduction[m
+[32m+[m
+[32m+[m[32mThis is an example to show different parts of the git repo[m
+[32m+[m[32mand various commands using a web project[m
+[32m+[m
+ ## Purpose[m
+ [m
+[31m-Sample website with plenty of files for demos[m
+\ No newline at end of file[m
+[32m+[m[32mSample website with plenty of files for demos[m
+[32m+[m
+[32m+[m[32m## Deployment[m
+[32m+[m
+[32m+[m[32m## How To Contribute[m
+\ No newline at end of file[m
+[1mdiff --git a/filedos.txt b/filedos.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ba61759[m
+[1m--- /dev/null[m
+[1m+++ b/filedos.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mjsut testing[m
+\ No newline at end of file[m
+[1mdiff --git a/newFile b/newFile[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e5388fc[m
+[1m--- /dev/null[m
+[1m+++ b/newFile[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mnesw trs[m
+\ No newline at end of file[m
+[1mdiff --git a/newFile.txt b/newFile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..af230d9[m
+[1m--- /dev/null[m
+[1m+++ b/newFile.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mjust testing[m
+\ No newline at end of file[m

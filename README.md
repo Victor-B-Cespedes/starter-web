@@ -10,7 +10,10 @@ and various commands using a web project
 ## Purpose
 
 Sample website with plenty of files for demos
+done for testing
 
 ## Deployment
+
+We just be testing stuff, maaaan
 
 ## How To Contribute
