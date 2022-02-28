@@ -16,4 +16,5 @@ done for testing
 
 We just be testing stuff, maaaan
 
-## How To Contribute
+### Copyright
+2022 Victor Basalduac Cespedes
