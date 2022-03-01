@@ -20,4 +20,4 @@ We just be testing stuff, maaaan
 Just do it, maaan
 
 ### Copyright
-2022 Victor Basalduac Cespedes
+2022 Victor Basaldua Cespedes Leiva
